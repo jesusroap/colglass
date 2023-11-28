@@ -1999,6 +1999,7 @@ body.error404 .left-sidebar .content-area {
 
 .blog_single_pageheader.page_header_default {
   padding: 0px;
+  padding-top: 20px;
 }
 .blog_single_pageheader.page_header_default .page_header_content {
   padding: 100px 0px 60px;
